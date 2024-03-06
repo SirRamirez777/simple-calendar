@@ -1,3 +1,3 @@
 Calendar using HTML,CSS & JavaScript
 
-Demo: **https://simplecalender.netlify.app**😉😉
+-- Demo: **https://simplecalender.netlify.app**😉😉
